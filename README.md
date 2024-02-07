@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Apache Spark,k8s**
 
-- 📝 I regularly write articles on [https://infoinhere.tistory.com/](https://infoinhere.tistory.com/)
+- 📝 I regularly write articles on [develjsh.github.io](develjsh.github.io)
 
 - 💬 Ask me about **Apache Spark, k8s**
 
